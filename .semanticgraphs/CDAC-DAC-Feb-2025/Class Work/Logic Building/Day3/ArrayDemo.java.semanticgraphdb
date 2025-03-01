@@ -1,0 +1,190 @@
+
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java©
+	ArrayDemoCLASSE
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java("
+package	ArrayDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrayDemo"
+accesspackage_private*	ArrayDemo2r
+ArrayDemo.main(String[])DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (Õ*
+ArrayDemo.main(String[])METHODI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2x
+%ArrayDemo.main(String[])?i@47.9:47.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/ /(2x
+%ArrayDemo.main(String[])?a@37.5:37.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/ /(2x
+%ArrayDemo.main(String[])?i@47.9:47.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/ /(2y
+&ArrayDemo.main(String[])?j@48.10:48.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0 0(2x
+%ArrayDemo.main(String[])?a@37.5:37.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0 0(2x
+%ArrayDemo.main(String[])?i@47.9:47.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0 0(2y
+&ArrayDemo.main(String[])?j@48.10:48.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0 0( 2x
+%ArrayDemo.main(String[])?a@37.5:37.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java1 1(2x
+%ArrayDemo.main(String[])?i@47.9:47.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java1 1(2y
+&ArrayDemo.main(String[])?j@48.10:48.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java1 1(2x
+%ArrayDemo.main(String[])?i@65.9:65.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(2x
+%ArrayDemo.main(String[])?i@65.9:65.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(2y
+&ArrayDemo.main(String[])?j@66.10:66.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB B(2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB B(2x
+%ArrayDemo.main(String[])?i@65.9:65.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB B(2y
+&ArrayDemo.main(String[])?j@66.10:66.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB" B(#2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaC C(2x
+%ArrayDemo.main(String[])?i@65.9:65.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaC C(2y
+&ArrayDemo.main(String[])?j@66.10:66.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaC
+ C(2x
+%ArrayDemo.main(String[])?i@72.9:72.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH H(2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH H(2x
+%ArrayDemo.main(String[])?i@72.9:72.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH H(2y
+&ArrayDemo.main(String[])?j@73.10:73.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI I(2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI I(2x
+%ArrayDemo.main(String[])?i@72.9:72.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI I(2y
+&ArrayDemo.main(String[])?j@73.10:73.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI" I(#2{
+(ArrayDemo.main(String[])?arr1@62.4:62.12CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaJ J(2x
+%ArrayDemo.main(String[])?i@72.9:72.10CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaJ J(2y
+&ArrayDemo.main(String[])?j@73.10:73.11CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaJ J(2u
+ArrayDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java  (&2
+%ArrayDemo.main(String[])?a@37.5:37.10DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(
+2
+%ArrayDemo.main(String[])?i@47.9:47.10DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/	 /(
+2€
+&ArrayDemo.main(String[])?j@48.10:48.11DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0
+ 0(2
+'ArrayDemo.main(String[])?arr@58.4:58.11DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java: :(2‚
+(ArrayDemo.main(String[])?arr1@62.4:62.12DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java> >(2
+%ArrayDemo.main(String[])?i@65.9:65.10DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA	 A(
+2€
+&ArrayDemo.main(String[])?j@66.10:66.11DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB
+ B(2
+%ArrayDemo.main(String[])?i@72.9:72.10DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH	 H(
+2€
+&ArrayDemo.main(String[])?j@73.10:73.11DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI
+ I(2^
+voidRETURN_TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (½
+%ArrayDemo.main(String[])?a@37.5:37.10VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(
+"
+typeint"
+isFinalfalse"À
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">a</mark> = { { 1, 2, 3, 4 }<mark class="modifier">,</mark> { 5, 6, 7, 8 } }*a2Z
+int[][]TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java% %(ô
+%ArrayDemo.main(String[])?i@47.9:47.10VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/	 /(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java/ /(õ
+&ArrayDemo.main(String[])?j@48.10:48.11VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0
+ 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java0 0(	ü
+'ArrayDemo.main(String[])?arr@58.4:58.11VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java: :("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark>*arr2X
+int[][]TYPEG
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java: :(	¯
+(ArrayDemo.main(String[])?arr1@62.4:62.12VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java> >("
+typeint"
+isFinalfalse"®
+declarationString˜<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[2][2]*arr12X
+int[][]TYPEG
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java> >(
+ô
+%ArrayDemo.main(String[])?i@65.9:65.10VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA	 A(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaA A(õ
+&ArrayDemo.main(String[])?j@66.10:66.11VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB
+ B("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaB B(	ô
+%ArrayDemo.main(String[])?i@72.9:72.10VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH	 H(
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaH H(õ
+&ArrayDemo.main(String[])?j@73.10:73.11VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI
+ I("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.javaI I(	 
+ArrayDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\ArrayDemo.java (&

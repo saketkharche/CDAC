@@ -1,0 +1,61 @@
+
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.javaò
+Q17First_N_NaturalNumbersCLASST
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java("$
+packageQ17First_N_NaturalNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier"> </mark><mark class="modifier">class </mark>Q17First_N_NaturalNumbers"
+accesspackage_private*Q17First_N_NaturalNumbers2ë
+(Q17First_N_NaturalNumbers.main(String[])DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java („
+(Q17First_N_NaturalNumbers.main(String[])METHODX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ñ
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java$ (%2ñ
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (2ñ
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (2ñ
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java  (!2ñ
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (2î
+-Q17First_N_NaturalNumbers.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java% ()2ù
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (2ù
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (2m
+voidRETURN_TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (°
+4Q17First_N_NaturalNumbers.main(String[])?N@2.12:2.13VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = 6*N2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (°
+4Q17First_N_NaturalNumbers.main(String[])?i@5.17:5.18VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java (Œ
+-Q17First_N_NaturalNumbers.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2j
+String[]TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q17First_N_NaturalNumbers.java ($

@@ -1,0 +1,48 @@
+
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.javaµ
+Q8CountDownCLASSF
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java("
+packageQ8CountDown"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>Q8CountDown"
+accesspackage_private*Q8CountDown2u
+Q8CountDown.main(String[])DECLARATIONJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (◊
+Q8CountDown.main(String[])METHODJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2z
+&Q8CountDown.main(String[])?i@3.17:3.18CALLJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (2z
+&Q8CountDown.main(String[])?i@3.17:3.18CALLJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java! ("2z
+&Q8CountDown.main(String[])?i@3.17:3.18CALLJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (2x
+Q8CountDown.main(String[])!args	PARAMETERJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java% ()2Å
+&Q8CountDown.main(String[])?i@3.17:3.18DECLARATIONJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (2_
+voidRETURN_TYPEJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (¯
+&Q8CountDown.main(String[])?i@3.17:3.18VARIABLEJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 10*i2W
+intTYPEJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java (§
+Q8CountDown.main(String[])!args	PARAMETERJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2\
+String[]TYPEJ
+@CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q8CountDown.java ($

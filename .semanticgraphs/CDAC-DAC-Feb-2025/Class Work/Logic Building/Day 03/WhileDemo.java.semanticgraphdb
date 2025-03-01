@@ -1,0 +1,33 @@
+
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java­
+	WhileDemoCLASSG
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java("
+package	WhileDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>WhileDemo"
+accesspackage_private*	WhileDemo2t
+WhileDemo.main(String[])DECLARATIONK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java (Þ
+WhileDemo.main(String[])METHODK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2w
+WhileDemo.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java# ('2`
+voidRETURN_TYPEK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java (¤
+WhileDemo.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\WhileDemo.java ("

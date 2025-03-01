@@ -1,0 +1,61 @@
+
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.javaÛ
+Q5Area_of_SquareCLASSX
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java("
+packageQ5Area_of_Square"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5Area_of_Square"
+accesspackage_private*Q5Area_of_Square2å
+Q5Area_of_Square.main(String[])DECLARATION\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (°
+Q5Area_of_Square.main(String[])METHOD\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2î
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2î
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2î
+.Q5Area_of_Square.main(String[])?area@3.12:3.16CALL\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java4 (82è
+$Q5Area_of_Square.main(String[])!args	PARAMETER\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java% ()2õ
+.Q5Area_of_Square.main(String[])?side@2.12:2.16DECLARATION\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2õ
+.Q5Area_of_Square.main(String[])?area@3.12:3.16DECLARATION\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2q
+voidRETURN_TYPE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (©
+.Q5Area_of_Square.main(String[])?side@2.12:2.16VARIABLE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">side</mark> = 5*side2i
+intTYPE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (‚
+.Q5Area_of_Square.main(String[])?area@3.12:3.16VARIABLE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">area</mark> = side * side*area2i
+intTYPE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2î
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (2î
+.Q5Area_of_Square.main(String[])?side@2.12:2.16CALL\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java (Õ
+$Q5Area_of_Square.main(String[])!args	PARAMETER\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2n
+String[]TYPE\
+RCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q5Area_of_Square.java ($

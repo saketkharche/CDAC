@@ -1,0 +1,74 @@
+
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java√
+Q7SumOfDigitsCLASSH
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java("
+packageQ7SumOfDigits"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>Q7SumOfDigits"
+accesspackage_private*Q7SumOfDigits2y
+Q7SumOfDigits.main(String[])DECLARATIONL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (ù
+Q7SumOfDigits.main(String[])METHODL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ä
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ä
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ä
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ç
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ä
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ä
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java3 (62|
+!Q7SumOfDigits.main(String[])!args	PARAMETERL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java% ()2á
+*Q7SumOfDigits.main(String[])?num@2.12:2.15DECLARATIONL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2á
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15DECLARATIONL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2â
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21DECLARATIONL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2a
+voidRETURN_TYPEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (á
+*Q7SumOfDigits.main(String[])?num@2.12:2.15VARIABLEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 9876*num2Y
+intTYPEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (É
+*Q7SumOfDigits.main(String[])?sum@3.12:3.15VARIABLEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2Y
+intTYPEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (î
+,Q7SumOfDigits.main(String[])?digit@6.16:6.21VARIABLEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">digit</mark> = num % 10*digit2Y
+intTYPEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (2Ä
+*Q7SumOfDigits.main(String[])?num@2.12:2.15CALLL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java (™
+!Q7SumOfDigits.main(String[])!args	PARAMETERL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q7SumOfDigits.java ($

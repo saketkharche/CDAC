@@ -1,0 +1,63 @@
+
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java‘
+loopsCLASSC
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java("
+packageloops"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>loops"
+accesspackage_private*loops2l
+loops.main(String[])DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (€
+loops.main(String[])METHODG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2s
+"loops.main(String[])?a@16.13:16.14CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2s
+"loops.main(String[])?b@16.20:16.21CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java% (&2s
+"loops.main(String[])?a@16.13:16.14CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java- (.2s
+"loops.main(String[])?b@16.20:16.21CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java1 (22s
+"loops.main(String[])?a@16.13:16.14CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2s
+"loops.main(String[])?b@16.20:16.21CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2o
+loops.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java# ('2z
+"loops.main(String[])?a@16.13:16.14DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2z
+"loops.main(String[])?b@16.20:16.21DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (2\
+voidRETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java (÷
+"loops.main(String[])?a@16.13:16.14VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10, b = 20*a2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java	 (÷
+"loops.main(String[])?b@16.20:16.21VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10, b = 20*b2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java	 (˜
+loops.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Y
+String[]TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\loops.java ("

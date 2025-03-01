@@ -1,0 +1,33 @@
+
+$Logic Building\Day 03\WhileDemo.javaó
+	WhileDemoCLASS*
+$Logic Building\Day 03\WhileDemo.java("
+package	WhileDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>WhileDemo"
+accesspackage_private*	WhileDemo2W
+WhileDemo.main(String[])DECLARATION.
+$Logic Building\Day 03\WhileDemo.java (‡
+WhileDemo.main(String[])METHOD.
+$Logic Building\Day 03\WhileDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Z
+WhileDemo.main(String[])!args	PARAMETER.
+$Logic Building\Day 03\WhileDemo.java# ('2C
+voidRETURN_TYPE.
+$Logic Building\Day 03\WhileDemo.java (ê
+WhileDemo.main(String[])!args	PARAMETER.
+$Logic Building\Day 03\WhileDemo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2@
+String[]TYPE.
+$Logic Building\Day 03\WhileDemo.java ("

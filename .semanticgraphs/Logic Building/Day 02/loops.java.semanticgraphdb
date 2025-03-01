@@ -1,0 +1,63 @@
+
+ Logic Building\Day 02\loops.java×
+loopsCLASS&
+ Logic Building\Day 02\loops.java("
+packageloops"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>loops"
+accesspackage_private*loops2O
+loops.main(String[])DECLARATION*
+ Logic Building\Day 02\loops.java (Á	
+loops.main(String[])METHOD*
+ Logic Building\Day 02\loops.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2V
+"loops.main(String[])?a@16.13:16.14CALL*
+ Logic Building\Day 02\loops.java (2V
+"loops.main(String[])?b@16.20:16.21CALL*
+ Logic Building\Day 02\loops.java% (&2V
+"loops.main(String[])?a@16.13:16.14CALL*
+ Logic Building\Day 02\loops.java- (.2V
+"loops.main(String[])?b@16.20:16.21CALL*
+ Logic Building\Day 02\loops.java1 (22V
+"loops.main(String[])?a@16.13:16.14CALL*
+ Logic Building\Day 02\loops.java (2V
+"loops.main(String[])?b@16.20:16.21CALL*
+ Logic Building\Day 02\loops.java (2R
+loops.main(String[])!args	PARAMETER*
+ Logic Building\Day 02\loops.java# ('2]
+"loops.main(String[])?a@16.13:16.14DECLARATION*
+ Logic Building\Day 02\loops.java (2]
+"loops.main(String[])?b@16.20:16.21DECLARATION*
+ Logic Building\Day 02\loops.java (2?
+voidRETURN_TYPE*
+ Logic Building\Day 02\loops.java (½
+"loops.main(String[])?a@16.13:16.14VARIABLE*
+ Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10, b = 20*a27
+intTYPE*
+ Logic Building\Day 02\loops.java	 (½
+"loops.main(String[])?b@16.20:16.21VARIABLE*
+ Logic Building\Day 02\loops.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10, b = 20*b27
+intTYPE*
+ Logic Building\Day 02\loops.java	 (Þ
+loops.main(String[])!args	PARAMETER*
+ Logic Building\Day 02\loops.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2<
+String[]TYPE*
+ Logic Building\Day 02\loops.java ("

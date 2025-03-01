@@ -1,0 +1,44 @@
+
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java×
+Q2DaysOfWeekCLASST
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java("
+packageQ2DaysOfWeek"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q2DaysOfWeek"
+accesspackage_private*Q2DaysOfWeek2„
+Q2DaysOfWeek.main(String[])DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java (¯
+Q2DaysOfWeek.main(String[])METHODX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‹
+)Q2DaysOfWeek.main(String[])?day@2.12:2.15CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java (2‡
+ Q2DaysOfWeek.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java% ()2’
+)Q2DaysOfWeek.main(String[])?day@2.12:2.15DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java (2m
+voidRETURN_TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java (š
+)Q2DaysOfWeek.main(String[])?day@2.12:2.15VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">day</mark> = 3*day2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java (Á
+ Q2DaysOfWeek.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2j
+String[]TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q2DaysOfWeek.java ($

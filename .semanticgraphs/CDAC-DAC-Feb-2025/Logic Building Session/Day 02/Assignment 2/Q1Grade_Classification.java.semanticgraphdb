@@ -1,0 +1,52 @@
+
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.javaù
+Q1Grade_ClassificationCLASS^
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java("!
+packageQ1Grade_Classification"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q1Grade_Classification"
+accesspackage_private*Q1Grade_Classification2ò
+%Q1Grade_Classification.main(String[])DECLARATIONb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (˘
+%Q1Grade_Classification.main(String[])METHODb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2°
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALLb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (2°
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALLb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (2°
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALLb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (2°
+5Q1Grade_Classification.main(String[])?score@2.12:2.17CALLb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java
+ 
+(2õ
+*Q1Grade_Classification.main(String[])!args	PARAMETERb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java% ()2®
+5Q1Grade_Classification.main(String[])?score@2.12:2.17DECLARATIONb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (2w
+voidRETURN_TYPEb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (¿
+5Q1Grade_Classification.main(String[])?score@2.12:2.17VARIABLEb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">score</mark> = 85*score2o
+intTYPEb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java (ﬂ
+*Q1Grade_Classification.main(String[])!args	PARAMETERb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2t
+String[]TYPEb
+XCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q1Grade_Classification.java ($

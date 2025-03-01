@@ -1,0 +1,63 @@
+
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.javaÉ
+Q7Multiplication_TableCLASSQ
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java("!
+packageQ7Multiplication_Table"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q7Multiplication_Table"
+accesspackage_private*Q7Multiplication_Table2ã
+%Q7Multiplication_Table.main(String[])DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (∑
+%Q7Multiplication_Table.main(String[])METHODU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ê
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (2ê
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (2é
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (2ê
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java% (&2é
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java2 (32ê
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java6 (72é
+*Q7Multiplication_Table.main(String[])!args	PARAMETERU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java# ('2ï
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (	2ó
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (2j
+voidRETURN_TYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (ñ
+/Q7Multiplication_Table.main(String[])?a@2.8:2.9VARIABLEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 8*a2b
+intTYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (ò
+1Q7Multiplication_Table.main(String[])?i@3.12:3.13VARIABLEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2b
+intTYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java (≈
+*Q7Multiplication_Table.main(String[])!args	PARAMETERU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q7Multiplication_Table.java ("

@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "e15286f25828fd84",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37c704b5dc49279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f094159530fac30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CDAC-DAC-Feb-2025/Operating System/Assignment 2/Assignment 02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cdcb2eaa91850af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d907040cc9a5ca89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a51d0f2312ba5773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "05845b0c349afe71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edfefadef379e774",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0141bfbbd66e6267",
+    "type": "split",
+    "children": [
+      {
+        "id": "bba36ccd6fe94c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d30dd3190749832e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CDAC-ClassWork/Operating System/OS notes personal/Operating System Notes Saket.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operating System Notes Saket"
+            }
+          },
+          {
+            "id": "29baee5f0698d690",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CDAC-ClassWork/Operating System/OS notes personal/Operating System Notes Saket.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operating System Notes Saket"
+            }
+          },
+          {
+            "id": "c7fad6267c2a1510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09bbaa55c0a3cf03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CDAC-ClassWork/Operating System/OS notes personal/Operating System Notes Saket.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Operating System Notes Saket"
+            }
+          },
+          {
+            "id": "720ae58bb72e8e2c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "da8f31a6cdae0ca3",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "0e948579c83097eb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "formatto-format:Format Document": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "fit:Fit Sync": false
+    }
+  },
+  "active": "1f094159530fac30",
+  "lastOpenFiles": [
+    "CDAC/README.md",
+    "CDAC",
+    "CDAC-DAC-Feb-2025/Operating System/Assignment 2/Assignment 02.md",
+    "CDAC-ClassWork/Operating System/Day-4/OS_Notes_Day-4.md",
+    "CDAC-ClassWork/Operating System/Day-5/OS_Notes_Day-5.md",
+    "CDAC-ClassWork/Operating System/Day-5/RR.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/Semaphore.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/ProCons.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/Mutax.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/MultiPaging.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/OPR.jpg",
+    "CDAC-ClassWork/Operating System/Day-5/Deadlock.jpg",
+    "CDAC-ClassWork/Operating System/Day-5",
+    "CDAC-ClassWork/Operating System/Day-3/OS_Notes_Day-3.md",
+    "CDAC-ClassWork/Operating System/OS notes personal/os.md",
+    "CDAC-ClassWork/Operating System/OS notes personal/Operating System Notes Saket.md",
+    "CDAC-ClassWork/Operating System/OS notes personal/Operating System Notes Saket_tmp.html"
+  ]
+}

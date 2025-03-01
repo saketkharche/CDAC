@@ -1,0 +1,76 @@
+
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.javaƒ
+Q5Multiply_Two_NumbersCLASSQ
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java("!
+packageQ5Multiply_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5Multiply_Two_Numbers"
+accesspackage_private*Q5Multiply_Two_Numbers2‹
+%Q5Multiply_Two_Numbers.main(String[])DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (´
+%Q5Multiply_Two_Numbers.main(String[])METHODU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ž
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java
+ (2Ž
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (2Ž
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (2Ž
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java# ($2Ž
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java/ (02Ž
+*Q5Multiply_Two_Numbers.main(String[])!args	PARAMETERU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java# ('2•
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	2•
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	2•
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9DECLARATIONU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	2j
+voidRETURN_TYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (—
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9VARIABLEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 25*a2b
+intTYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (–
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9VARIABLEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 5*b2b
+intTYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (½
+/Q5Multiply_Two_Numbers.main(String[])?c@5.8:5.9VARIABLEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (	"
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = a * b*c2b
+intTYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (2Ž
+/Q5Multiply_Two_Numbers.main(String[])?a@2.8:2.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java
+ (2Ž
+/Q5Multiply_Two_Numbers.main(String[])?b@3.8:3.9CALLU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java (Å
+*Q5Multiply_Two_Numbers.main(String[])!args	PARAMETERU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q5Multiply_Two_Numbers.java ("

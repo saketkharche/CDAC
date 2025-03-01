@@ -1,0 +1,138 @@
+
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java€
+Q3CalculatorCLASSX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+packageQ3Calculator"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3Calculator"
+accesspackage_private*Q3Calculator2Ñ
+Q3Calculator.main(String[])DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (è$
+Q3Calculator.main(String[])METHODX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java
+ 
+(2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2í
+0Q3Calculator.main(String[])?operator@13.13:13.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2å
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2é
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java  ($2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java0 (62ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2å
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2é
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java  ($2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java0 (62ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2å
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2é
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java  ($2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java0 (62é
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java   (2å
+*Q3Calculator.main(String[])?num1@7.15:7.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java   (!2é
+,Q3Calculator.main(String[])?num2@10.15:10.19CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java $  ((2ê
+.Q3Calculator.main(String[])?result@15.15:15.21CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java!4 !(:2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java+ +(2á
+ Q3Calculator.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java% ()2ñ
+-Q3Calculator.main(String[])?scanner@4.16:4.23DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2ì
+*Q3Calculator.main(String[])?num1@7.15:7.19DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2ï
+,Q3Calculator.main(String[])?num2@10.15:10.19DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java
+ 
+(2ô
+0Q3Calculator.main(String[])?operator@13.13:13.21DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2ó
+.Q3Calculator.main(String[])?result@15.15:15.21DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2m
+voidRETURN_TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (≥
+-Q3Calculator.main(String[])?scanner@4.16:4.23VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2s
+java.util.ScannerTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (Õ
+*Q3Calculator.main(String[])?num1@7.15:7.19VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+typedouble"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num1</mark> = scanner.nextDouble()*num12h
+doubleTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (œ
+,Q3Calculator.main(String[])?num2@10.15:10.19VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java
+ 
+("
+typedouble"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">num2</mark> = scanner.nextDouble()*num22h
+doubleTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java
+ 
+(2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java
+ 
+(π
+0Q3Calculator.main(String[])?operator@13.13:13.21VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+typechar"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = scanner.next().charAt(0)*operator2f
+charTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (2è
+-Q3Calculator.main(String[])?scanner@4.16:4.23CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (´
+.Q3Calculator.main(String[])?result@15.15:15.21VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ("
+typedouble"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">result</mark>*result2h
+doubleTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java (¡
+ Q3Calculator.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2j
+String[]TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q3Calculator.java ($

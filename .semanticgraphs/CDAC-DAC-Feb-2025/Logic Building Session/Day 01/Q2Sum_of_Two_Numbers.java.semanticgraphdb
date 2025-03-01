@@ -1,0 +1,74 @@
+
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.javaõ
+Q2Sum_of_Two_NumbersCLASSO
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java("
+packageQ2Sum_of_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier"> </mark><mark class="modifier">class </mark>Q2Sum_of_Two_Numbers"
+accesspackage_private*Q2Sum_of_Two_Numbers2‡
+#Q2Sum_of_Two_Numbers.main(String[])DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (š
+#Q2Sum_of_Two_Numbers.main(String[])METHODS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?a@2.12:2.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?b@3.12:3.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?a@2.12:2.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?b@3.12:3.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java' ((2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?c@6.12:6.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java3 (42Š
+(Q2Sum_of_Two_Numbers.main(String[])!args	PARAMETERS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java% ()2“
+/Q2Sum_of_Two_Numbers.main(String[])?a@2.12:2.13DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2“
+/Q2Sum_of_Two_Numbers.main(String[])?b@3.12:3.13DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2“
+/Q2Sum_of_Two_Numbers.main(String[])?c@6.12:6.13DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2h
+voidRETURN_TYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (“
+/Q2Sum_of_Two_Numbers.main(String[])?a@2.12:2.13VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 74*a2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (“
+/Q2Sum_of_Two_Numbers.main(String[])?b@3.12:3.13VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 36*b2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (µ
+/Q2Sum_of_Two_Numbers.main(String[])?c@6.12:6.13VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = a + b*c2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?a@2.12:2.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (2Œ
+/Q2Sum_of_Two_Numbers.main(String[])?b@3.12:3.13CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java (¿
+(Q2Sum_of_Two_Numbers.main(String[])!args	PARAMETERS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2e
+String[]TYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q2Sum_of_Two_Numbers.java ($

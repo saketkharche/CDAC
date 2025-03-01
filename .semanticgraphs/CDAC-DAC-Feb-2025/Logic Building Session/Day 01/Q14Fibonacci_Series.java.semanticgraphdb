@@ -1,0 +1,106 @@
+
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.javaÓ
+Q14Fibonacci_SeriesCLASSN
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java("
+packageQ14Fibonacci_Series"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier"> </mark><mark class="modifier">class </mark>Q14Fibonacci_Series"
+accesspackage_private*Q14Fibonacci_Series2Ö
+"Q14Fibonacci_Series.main(String[])DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (©
+"Q14Fibonacci_Series.main(String[])METHODR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java2 (32ä
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ä
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ä
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java  (!2é
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java
+ 
+("2é
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2è
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (%2é
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2è
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2è
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2è
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2à
+'Q14Fibonacci_Series.main(String[])!args	PARAMETERR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java# ('2ë
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ï
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ñ
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ë
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2ñ
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2g
+voidRETURN_TYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (ê
+.Q14Fibonacci_Series.main(String[])?n@2.12:2.13VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 10*n2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (ú
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">first</mark> = 0*first2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (ü
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">second</mark> = 1*second2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (è
+.Q14Fibonacci_Series.main(String[])?i@8.17:8.18VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (À
+3Q14Fibonacci_Series.main(String[])?next@12.16:12.20VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">next</mark> = first + second*next2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2é
+2Q14Fibonacci_Series.main(String[])?first@3.12:3.17CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (2è
+3Q14Fibonacci_Series.main(String[])?second@4.12:4.18CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java (%º
+'Q14Fibonacci_Series.main(String[])!args	PARAMETERR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q14Fibonacci_Series.java ("

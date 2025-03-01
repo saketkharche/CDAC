@@ -1,0 +1,80 @@
+
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.javaÓ
+Q5FibonacciSequenceCLASSN
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java("
+packageQ5FibonacciSequence"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier"> </mark><mark class="modifier">class </mark>Q5FibonacciSequence"
+accesspackage_private*Q5FibonacciSequence2Ö
+"Q5FibonacciSequence.main(String[])DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (≤
+"Q5FibonacciSequence.main(String[])METHODR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ç
+1Q5FibonacciSequence.main(String[])?next@6.16:6.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2à
+'Q5FibonacciSequence.main(String[])!args	PARAMETERR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java% ()2ë
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ë
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2î
+1Q5FibonacciSequence.main(String[])?next@6.16:6.20DECLARATIONR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2g
+voidRETURN_TYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (ó
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 0, b = 1*a2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (ó
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 0, b = 1*b2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (∑
+1Q5FibonacciSequence.main(String[])?next@6.16:6.20VARIABLER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">next</mark> = a + b*next2_
+intTYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?a@2.12:2.13CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (2ä
+.Q5FibonacciSequence.main(String[])?b@2.19:2.20CALLR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java (º
+'Q5FibonacciSequence.main(String[])!args	PARAMETERR
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q5FibonacciSequence.java ($

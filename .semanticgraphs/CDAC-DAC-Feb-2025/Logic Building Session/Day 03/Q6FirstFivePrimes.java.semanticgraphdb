@@ -1,0 +1,95 @@
+
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java‡
+Q6FirstFivePrimesCLASSL
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java("
+packageQ6FirstFivePrimes"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">class </mark>Q6FirstFivePrimes"
+accesspackage_private*Q6FirstFivePrimes2Å
+ Q6FirstFivePrimes.main(String[])DECLARATIONP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (“
+ Q6FirstFivePrimes.main(String[])METHODP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2Ü
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2Ü
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java  (!2à
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java% ((2Ü
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java* (+2à
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java	 	(2Ü
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java	 	(2å
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java
+ 
+(2å
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2à
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java! ($2ä
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2à
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15CALLP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2Ñ
+%Q6FirstFivePrimes.main(String[])!args	PARAMETERP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java% ()2ë
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17DECLARATIONP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2è
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15DECLARATIONP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2ì
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27DECLARATIONP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2ç
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22DECLARATIONP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (2e
+voidRETURN_TYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (ñ
+0Q6FirstFivePrimes.main(String[])?count@3.12:3.17VARIABLEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2]
+intTYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (è
+.Q6FirstFivePrimes.main(String[])?num@4.12:4.15VARIABLEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 2*num2]
+intTYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (´
+2Q6FirstFivePrimes.main(String[])?isPrime@7.20:7.27VARIABLEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ("
+typeboolean"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isPrime</mark> = true*isPrime2a
+booleanTYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (â
+,Q6FirstFivePrimes.main(String[])?i@8.21:8.22VARIABLEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2]
+intTYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java (∂
+%Q6FirstFivePrimes.main(String[])!args	PARAMETERP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q6FirstFivePrimes.java ($

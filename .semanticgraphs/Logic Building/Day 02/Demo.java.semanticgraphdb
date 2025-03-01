@@ -1,0 +1,47 @@
+
+Logic Building\Day 02\Demo.javaÐ
+DemoCLASS%
+Logic Building\Day 02\Demo.java(
+"
+packageDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Demo"
+accesspackage_private*Demo2M
+Demo.main(String[])DECLARATION)
+Logic Building\Day 02\Demo.java (ô
+Demo.main(String[])METHOD)
+Logic Building\Day 02\Demo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2S
+ Demo.main(String[])?age@2.8:2.11CALL)
+Logic Building\Day 02\Demo.java (2S
+ Demo.main(String[])?age@2.8:2.11CALL)
+Logic Building\Day 02\Demo.java (2P
+Demo.main(String[])!args	PARAMETER)
+Logic Building\Day 02\Demo.java# ('2Z
+ Demo.main(String[])?age@2.8:2.11DECLARATION)
+Logic Building\Day 02\Demo.java (2>
+voidRETURN_TYPE)
+Logic Building\Day 02\Demo.java (´
+ Demo.main(String[])?age@2.8:2.11VARIABLE)
+Logic Building\Day 02\Demo.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">age</mark> = 20*age26
+intTYPE)
+Logic Building\Day 02\Demo.java (Û
+Demo.main(String[])!args	PARAMETER)
+Logic Building\Day 02\Demo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2;
+String[]TYPE)
+Logic Building\Day 02\Demo.java ("

@@ -1,0 +1,83 @@
+
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.javaä
+Q13Average_of_Three_NumCLASSR
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java(""
+packageQ13Average_of_Three_Num"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q13Average_of_Three_Num"
+accesspackage_private*Q13Average_of_Three_Num2ç
+&Q13Average_of_Three_Num.main(String[])DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (˛
+&Q13Average_of_Three_Num.main(String[])METHODV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ï
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ï
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java! (%2ï
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java( (,2ò
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java0 (72ê
++Q13Average_of_Three_Num.main(String[])!args	PARAMETERV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java# ('2ú
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ú
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ú
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ü
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2k
+voidRETURN_TYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (¶
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num1</mark> = 20*num12c
+intTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (¶
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num2</mark> = 40*num22c
+intTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (¶
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num3</mark> = 60*num32c
+intTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (ô
+8Q13Average_of_Three_Num.main(String[])?average@6.15:6.22VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("
+typedouble"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">average</mark> = (num1 + num2 + num3) / 3.0*average2f
+doubleTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ï
+5Q13Average_of_Three_Num.main(String[])?num1@2.12:2.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java (2ï
+5Q13Average_of_Three_Num.main(String[])?num2@3.12:3.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java! (%2ï
+5Q13Average_of_Three_Num.main(String[])?num3@4.12:4.16CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java( (,»
++Q13Average_of_Three_Num.main(String[])!args	PARAMETERV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2h
+String[]TYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q13Average_of_Three_Num.java ("

@@ -1,0 +1,60 @@
+
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.javaä
+Q18TemperatureConverterCLASSR
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java(""
+packageQ18TemperatureConverter"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q18TemperatureConverter"
+accesspackage_private*Q18TemperatureConverter2ç
+&Q18TemperatureConverter.main(String[])DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (∑
+&Q18TemperatureConverter.main(String[])METHODV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ò
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ($2ò
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ("2õ
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java9 (C2ê
++Q18TemperatureConverter.main(String[])!args	PARAMETERV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java% ()2ü
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (2¢
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25DECLARATIONV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (2k
+voidRETURN_TYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (∫
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ("
+typedouble"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">celsius</mark> = 25.0*celsius2f
+doubleTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (Ò
+;Q18TemperatureConverter.main(String[])?fahrenheit@3.15:3.25VARIABLEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ("
+typedouble"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">fahrenheit</mark> = (celsius * 9 / 5) + 32*
+fahrenheit2f
+doubleTYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java (2ò
+8Q18TemperatureConverter.main(String[])?celsius@2.15:2.22CALLV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ($»
++Q18TemperatureConverter.main(String[])!args	PARAMETERV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2h
+String[]TYPEV
+LCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q18TemperatureConverter.java ($

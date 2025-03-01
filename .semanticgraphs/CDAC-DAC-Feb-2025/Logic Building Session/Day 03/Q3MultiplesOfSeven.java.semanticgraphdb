@@ -1,0 +1,48 @@
+
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.javaÁ
+Q3MultiplesOfSevenCLASSM
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java("
+packageQ3MultiplesOfSeven"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3MultiplesOfSeven"
+accesspackage_private*Q3MultiplesOfSeven2É
+!Q3MultiplesOfSeven.main(String[])DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (∂	
+!Q3MultiplesOfSeven.main(String[])METHODQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (2à
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java" (#2à
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (2Ü
+&Q3MultiplesOfSeven.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java% ()2è
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (2f
+voidRETURN_TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (å
+-Q3MultiplesOfSeven.main(String[])?i@3.17:3.18VARIABLEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 7*i2^
+intTYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java (π
+&Q3MultiplesOfSeven.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q3MultiplesOfSeven.java ($

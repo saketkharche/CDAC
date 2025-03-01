@@ -1,0 +1,122 @@
+
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java¶
+Q17UpsidedownPyramidPatternCLASSV
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java(!"&
+packageQ17UpsidedownPyramidPattern"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier"> </mark><mark class="modifier">class </mark>Q17UpsidedownPyramidPattern"
+accesspackage_private*Q17UpsidedownPyramidPattern2ï
+*Q17UpsidedownPyramidPattern.main(String[])DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (˛
+*Q17UpsidedownPyramidPattern.main(String[])METHODZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ù
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java# ($2ù
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java  (!2ú
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+ 
+(2ü
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+! 
+('2ú
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+) 
+(*2ú
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java! ("2ú
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java$ (%2ú
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ò
+/Q17UpsidedownPyramidPattern.main(String[])!args	PARAMETERZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java% ()2§
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2°
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2¶
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2£
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+ 
+(2£
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22DECLARATIONZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2o
+voidRETURN_TYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (∞
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16VARIABLEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = 5*rows2g
+intTYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ( 
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18VARIABLEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = rows*i2g
+intTYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ù
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (˚
+;Q17UpsidedownPyramidPattern.main(String[])?spaces@7.16:7.22VARIABLEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">spaces</mark> = rows - i*spaces2g
+intTYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ù
+9Q17UpsidedownPyramidPattern.main(String[])?rows@2.12:2.16CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (2ö
+6Q17UpsidedownPyramidPattern.main(String[])?i@4.17:4.18CALLZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java  (!©
+8Q17UpsidedownPyramidPattern.main(String[])?j@10.21:10.22VARIABLEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2g
+intTYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java
+ 
+(©
+8Q17UpsidedownPyramidPattern.main(String[])?k@15.21:15.22VARIABLEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 1*k2g
+intTYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java (‘
+/Q17UpsidedownPyramidPattern.main(String[])!args	PARAMETERZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2l
+String[]TYPEZ
+PCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q17UpsidedownPyramidPattern.java ($

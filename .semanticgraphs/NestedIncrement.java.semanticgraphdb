@@ -1,0 +1,78 @@
+
+NestedIncrement.javaî
+NestedIncrementCLASS
+NestedIncrement.java("
+packageNestedIncrement"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>NestedIncrement"
+accesspublic*NestedIncrement2M
+NestedIncrement.main(String[])DECLARATION
+NestedIncrement.java (¢	
+NestedIncrement.main(String[])METHOD
+NestedIncrement.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2R
+*NestedIncrement.main(String[])?a@2.12:2.13CALL
+NestedIncrement.java (2R
+*NestedIncrement.main(String[])?b@3.12:3.13CALL
+NestedIncrement.java (2R
+*NestedIncrement.main(String[])?a@2.12:2.13CALL
+NestedIncrement.java# ($2R
+*NestedIncrement.main(String[])?b@3.12:3.13CALL
+NestedIncrement.java' ((2W
+/NestedIncrement.main(String[])?result@4.12:4.18CALL
+NestedIncrement.java (!2P
+#NestedIncrement.main(String[])!args	PARAMETER
+NestedIncrement.java% ()2Y
+*NestedIncrement.main(String[])?a@2.12:2.13DECLARATION
+NestedIncrement.java (2Y
+*NestedIncrement.main(String[])?b@3.12:3.13DECLARATION
+NestedIncrement.java (2^
+/NestedIncrement.main(String[])?result@4.12:4.18DECLARATION
+NestedIncrement.java (23
+voidRETURN_TYPE
+NestedIncrement.java (¤
+*NestedIncrement.main(String[])?a@2.12:2.13VARIABLE
+NestedIncrement.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2+
+intTYPE
+NestedIncrement.java (£
+*NestedIncrement.main(String[])?b@3.12:3.13VARIABLE
+NestedIncrement.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 5*b2+
+intTYPE
+NestedIncrement.java (˜
+/NestedIncrement.main(String[])?result@4.12:4.18VARIABLE
+NestedIncrement.java ("
+typeint"
+isFinalfalse"–
+declarationString€<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = ++a * b-- - --a + b++*result2+
+intTYPE
+NestedIncrement.java (2R
+*NestedIncrement.main(String[])?a@2.12:2.13CALL
+NestedIncrement.java (2R
+*NestedIncrement.main(String[])?b@3.12:3.13CALL
+NestedIncrement.java (2R
+*NestedIncrement.main(String[])?a@2.12:2.13CALL
+NestedIncrement.java# ($2R
+*NestedIncrement.main(String[])?b@3.12:3.13CALL
+NestedIncrement.java' ((Ð
+#NestedIncrement.main(String[])!args	PARAMETER
+NestedIncrement.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args20
+String[]TYPE
+NestedIncrement.java ($

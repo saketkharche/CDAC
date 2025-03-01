@@ -1,0 +1,33 @@
+
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java™
+Q1HelloCLASSB
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java("
+packageQ1Hello"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q1Hello"
+accesspackage_private*Q1Hello2m
+Q1Hello.main(String[])DECLARATIONF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java (Ë
+Q1Hello.main(String[])METHODF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2p
+Q1Hello.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java# ('2[
+voidRETURN_TYPEF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java (˜
+Q1Hello.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2X
+String[]TYPEF
+<CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q1Hello.java ("

@@ -1,0 +1,48 @@
+
+Logic Building\Day 02\Test.javaÐ
+TestCLASS%
+Logic Building\Day 02\Test.java(
+"
+packageTest"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Test"
+accesspackage_private*Test2M
+Test.main(String[])DECLARATION)
+Logic Building\Day 02\Test.java (ñ
+Test.main(String[])METHOD)
+Logic Building\Day 02\Test.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2R
+Test.main(String[])?a@2.14:2.15CALL)
+Logic Building\Day 02\Test.java (2R
+Test.main(String[])?a@2.14:2.15CALL)
+Logic Building\Day 02\Test.java (2P
+Test.main(String[])!args	PARAMETER)
+Logic Building\Day 02\Test.java) (-2Y
+Test.main(String[])?a@2.14:2.15DECLARATION)
+Logic Building\Day 02\Test.java (2>
+voidRETURN_TYPE)
+Logic Building\Day 02\Test.java (°
+Test.main(String[])?a@2.14:2.15VARIABLE)
+Logic Building\Day 02\Test.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 510*a26
+intTYPE)
+Logic Building\Day 02\Test.java
+ (Û
+Test.main(String[])!args	PARAMETER)
+Logic Building\Day 02\Test.java) (-"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2;
+String[]TYPE)
+Logic Building\Day 02\Test.java  ((

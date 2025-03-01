@@ -1,0 +1,77 @@
+
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java¬
+Q4Perform_Arithmetic_OperationsCLASSZ
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java(%"*
+packageQ4Perform_Arithmetic_Operations"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"w
+declarationStringb<mark class="modifier"> </mark><mark class="modifier">class </mark>Q4Perform_Arithmetic_Operations"
+accesspackage_private*Q4Perform_Arithmetic_Operations2ù
+.Q4Perform_Arithmetic_Operations.main(String[])DECLARATION^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (¯
+.Q4Perform_Arithmetic_Operations.main(String[])METHOD^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2†
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9CALL^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java( ()2†
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9CALL^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java) (*2†
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9CALL^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java- (.2†
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9CALL^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java	3 	(42†
+3Q4Perform_Arithmetic_Operations.main(String[])!args	PARAMETER^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java# ('2ß
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9DECLARATION^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	2ß
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9DECLARATION^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	2ß
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9DECLARATION^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	2ß
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9DECLARATION^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	2s
+voidRETURN_TYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (ª
+8Q4Perform_Arithmetic_Operations.main(String[])?a@2.8:2.9VARIABLE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = -5 + 8 * 6*a2k
+intTYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (Ω
+8Q4Perform_Arithmetic_Operations.main(String[])?b@3.8:3.9VARIABLE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = (55 + 9) % 9*b2k
+intTYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (¿
+8Q4Perform_Arithmetic_Operations.main(String[])?c@4.8:4.9VARIABLE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = 20 + -3 * 5 / 8*c2k
+intTYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java («
+8Q4Perform_Arithmetic_Operations.main(String[])?d@5.8:5.9VARIABLE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (	"
+typeint"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">d</mark> = 5 + 15 / 3 * 2 - 8 % 3*d2k
+intTYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java (‡
+3Q4Perform_Arithmetic_Operations.main(String[])!args	PARAMETER^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2p
+String[]TYPE^
+TCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q4Perform_Arithmetic_Operations.java ("

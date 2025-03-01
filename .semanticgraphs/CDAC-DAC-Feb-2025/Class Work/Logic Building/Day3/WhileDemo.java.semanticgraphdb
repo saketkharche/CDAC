@@ -1,0 +1,42 @@
+
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java©
+	WhileDemoCLASSE
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java("
+package	WhileDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier"> </mark><mark class="modifier">class </mark>WhileDemo"
+accesspackage_private*	WhileDemo2r
+WhileDemo.main(String[])DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java (Ö
+WhileDemo.main(String[])METHODI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2u
+WhileDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java  (&2|
+"WhileDemo.main(String[])?a@3.5:3.6DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java (2^
+voidRETURN_TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java (ò
+"WhileDemo.main(String[])?a@3.5:3.6VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java ( 
+WhileDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\WhileDemo.java (&

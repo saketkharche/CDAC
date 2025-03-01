@@ -1,0 +1,195 @@
+
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.javaª
+Laptop1CLASSC
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java("
+packageLaptop1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Laptop1"
+accesspackage_private*Laptop12i
+Laptop1.Laptop1()DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2|
+$Laptop1.Laptop1(int, String, double)DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2n
+Laptop1.accessCamera()DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2i
+Laptop1.display()DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2k
+Laptop1?ram@1.5:1.8DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2m
+Laptop1?name@2.8:2.12DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2n
+Laptop1?price@3.8:3.13DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (Â
+Laptop1.Laptop1()CONSTRUCTORG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("Y
+declarationStringD<mark class="modifier"> </mark><mark class="method">Laptop1</mark>()*Laptop12d
+Laptop1?ram@1.5:1.8CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2f
+Laptop1?name@2.8:2.12CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2g
+Laptop1?price@3.8:3.13CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2_
+Laptop1RETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (¨
+$Laptop1.Laptop1(int, String, double)CONSTRUCTORG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("ß
+declarationStringë<mark class="modifier"> </mark><mark class="method">Laptop1</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> String s<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> d)*Laptop12d
+Laptop1?ram@1.5:1.8CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2w
+&Laptop1.Laptop1(int, String, double)!aCALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (	2f
+Laptop1?name@2.8:2.12CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2w
+&Laptop1.Laptop1(int, String, double)!sCALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java	 (
+2g
+Laptop1?price@3.8:3.13CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2w
+&Laptop1.Laptop1(int, String, double)!dCALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java
+ (2|
+&Laptop1.Laptop1(int, String, double)!a	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2|
+&Laptop1.Laptop1(int, String, double)!s	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (2|
+&Laptop1.Laptop1(int, String, double)!d	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java! ("2_
+Laptop1RETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (Æ
+&Laptop1.Laptop1(int, String, double)!a	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java	 (ô
+&Laptop1.Laptop1(int, String, double)!s	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+typeString"
+isFinalfalse"
+declarationStringString s*s2W
+StringTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (∑
+&Laptop1.Laptop1(int, String, double)!d	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java! (""
+typedouble"
+isFinalfalse";
+declarationString&<mark class="modifier">double</mark> d*d2W
+doubleTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ( º
+Laptop1.accessCamera()METHODG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">accessCamera</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*accessCamera2\
+voidRETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (À
+Laptop1.display()METHODG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+isFinalfalse"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeString*display2d
+Laptop1?ram@1.5:1.8CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("2f
+Laptop1?name@2.8:2.12CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java' (+2g
+Laptop1?price@3.8:3.13CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java0 (52^
+StringRETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (å
+Laptop1?ram@1.5:1.8VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ram</mark>"
+isStaticfalse"
+accesspackage_private*ram2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (˚
+Laptop1?name@2.8:2.12VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accesspackage_private*name2W
+StringTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (ú
+Laptop1?price@3.8:3.13VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java ("
+isFinalfalse"
+typedouble"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">price</mark>"
+isStaticfalse"
+accesspackage_private*price2W
+doubleTYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java (≥
+LaptopDemo1CLASSG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java! !("
+packageLaptopDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>LaptopDemo1"
+accesspackage_private*LaptopDemo12r
+LaptopDemo1.main(String[])DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java# #(÷	
+LaptopDemo1.main(String[])METHODG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java# #("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2b
+Laptop1.Laptop1()CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java% %( 2Ä
+/LaptopDemo1.main(String[])?laptopObj@37.9:37.18CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java) )(2Å
+0LaptopDemo1.main(String[])?laptopObj1@39.9:39.19CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java* *(2u
+LaptopDemo1.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java#  #(&2á
+/LaptopDemo1.main(String[])?laptopObj@37.9:37.18DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java%	 %(2à
+0LaptopDemo1.main(String[])?laptopObj1@39.9:39.19DECLARATIONG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java'	 '(2\
+voidRETURN_TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java# #(Ë
+/LaptopDemo1.main(String[])?laptopObj@37.9:37.18VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java%	 %("
+typeLaptop1"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Laptop1 <mark class="class-field">laptopObj</mark> = new Laptop1()*	laptopObj2X
+Laptop1TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java% %(2b
+Laptop1.Laptop1()CALLG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java% %( ∫
+0LaptopDemo1.main(String[])?laptopObj1@39.9:39.19VARIABLEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java'	 '("
+typeLaptop1"
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark>Laptop1 <mark class="class-field">laptopObj1</mark> = new Laptop1(16, "Dell"<mark class="modifier">,</mark> 60000.0)*
+laptopObj12X
+Laptop1TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java' '(û
+LaptopDemo1.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java#  #(&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Y
+String[]TYPEG
+=CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\Laptop1.java# #(&

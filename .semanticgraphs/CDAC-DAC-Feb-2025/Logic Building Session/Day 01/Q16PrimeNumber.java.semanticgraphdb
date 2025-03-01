@@ -1,0 +1,84 @@
+
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java 
+Q16PrimeNumberCLASSI
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java("
+packageQ16PrimeNumber"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier"> </mark><mark class="modifier">class </mark>Q16PrimeNumber"
+accesspackage_private*Q16PrimeNumber2{
+Q16PrimeNumber.main(String[])DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java („
+Q16PrimeNumber.main(String[])METHODM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ö
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2Ü
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2Ä
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2Ö
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java! ('2Ä
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java- (.2Ö
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java	 	(2Ä
+)Q16PrimeNumber.main(String[])?i@8.21:8.22CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java	 	(2Ü
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java
+ 
+(2Ü
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2Ö
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java/ (52Ö
+.Q16PrimeNumber.main(String[])?number@2.12:2.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java/ (52~
+"Q16PrimeNumber.main(String[])!args	PARAMETERM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java% ()2å
+.Q16PrimeNumber.main(String[])?number@2.12:2.18DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2ç
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2á
+)Q16PrimeNumber.main(String[])?i@8.21:8.22DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (2b
+voidRETURN_TYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (ë
+.Q16PrimeNumber.main(String[])?number@2.12:2.18VARIABLEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 17*number2Z
+intTYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (¢
+/Q16PrimeNumber.main(String[])?isPrime@3.16:3.23VARIABLEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java ("
+typeboolean"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isPrime</mark> = true*isPrime2^
+booleanTYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (Ä
+)Q16PrimeNumber.main(String[])?i@8.21:8.22VARIABLEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2Z
+intTYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java (≠
+"Q16PrimeNumber.main(String[])!args	PARAMETERM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2_
+String[]TYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q16PrimeNumber.java ($

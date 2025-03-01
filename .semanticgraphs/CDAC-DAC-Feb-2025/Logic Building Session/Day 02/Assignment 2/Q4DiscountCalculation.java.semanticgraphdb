@@ -1,0 +1,126 @@
+
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.javaö
+Q4DiscountCalculationCLASSa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (" 
+packageQ4DiscountCalculation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>Q4DiscountCalculation"
+accesspackage_private*Q4DiscountCalculation2ñ
+$Q4DiscountCalculation.main(String[])DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (ﬁ
+$Q4DiscountCalculation.main(String[])METHODa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2°
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (&2°
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java
+ 
+(&2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ( 2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2©
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java" (/2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java3 (@2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.javaC (K2¨
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java6 (F2°
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2ô
+)Q4DiscountCalculation.main(String[])!args	PARAMETERa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java% ()2®
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2Æ
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2∞
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java
+ 
+(2´
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2≥
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31DECLARATIONa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2v
+voidRETURN_TYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (Œ
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23VARIABLEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner2|
+java.util.ScannerTYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (ï
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28VARIABLEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ("
+typedouble"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">totalPurchase</mark> = scanner.nextDouble()*totalPurchase2q
+doubleTYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2°
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (&Ò
+>Q4DiscountCalculation.main(String[])?hasMembership@10.15:10.28VARIABLEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java
+ 
+("
+typeString"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>String <mark class="class-field">hasMembership</mark> = scanner.next()*hasMembership2q
+StringTYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java
+ 
+(2°
+6Q4DiscountCalculation.main(String[])?scanner@4.16:4.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java
+ 
+(&Ã
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23VARIABLEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ("
+typedouble"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">discount</mark>*discount2q
+doubleTYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (ç
+AQ4DiscountCalculation.main(String[])?discountedAmount@25.15:25.31VARIABLEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ("
+typedouble"
+isFinalfalse"∏
+declarationString¢<mark class="modifier"> </mark><mark class="modifier">double</mark> <mark class="class-field">discountedAmount</mark> = totalPurchase - (totalPurchase * discount)*discountedAmount2q
+doubleTYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java (2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java" (/2ß
+<Q4DiscountCalculation.main(String[])?totalPurchase@7.15:7.28CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java3 (@2§
+9Q4DiscountCalculation.main(String[])?discount@12.15:12.23CALLa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.javaC (K‹
+)Q4DiscountCalculation.main(String[])!args	PARAMETERa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2s
+String[]TYPEa
+WCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 2\Q4DiscountCalculation.java ($

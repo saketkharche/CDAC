@@ -1,0 +1,80 @@
+
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.javaŸ
+ArrDemoCLASSE
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java("
+packageArrDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>ArrDemo"
+accesspackage_private*ArrDemo2p
+ArrDemo.main(String[])DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java (Š
+ArrDemo.main(String[])METHODI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2w
+$ArrDemo.main(String[])?i@42.13:42.14CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java* *(2v
+#ArrDemo.main(String[])?a@34.8:34.13CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java* *(2w
+$ArrDemo.main(String[])?i@42.13:42.14CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java* *(2w
+$ArrDemo.main(String[])?j@43.17:43.18CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +(2v
+#ArrDemo.main(String[])?a@34.8:34.13CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +(2w
+$ArrDemo.main(String[])?i@42.13:42.14CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +(2w
+$ArrDemo.main(String[])?j@43.17:43.18CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+$ +(%2v
+#ArrDemo.main(String[])?a@34.8:34.13CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java, ,(2w
+$ArrDemo.main(String[])?i@42.13:42.14CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java, ,(2w
+$ArrDemo.main(String[])?j@43.17:43.18CALLI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java,  ,(!2s
+ArrDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java# ('2}
+#ArrDemo.main(String[])?a@34.8:34.13DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java" "(2~
+$ArrDemo.main(String[])?i@42.13:42.14DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java* *(2~
+$ArrDemo.main(String[])?j@43.17:43.18DECLARATIONI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +(2^
+voidRETURN_TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java (»
+#ArrDemo.main(String[])?a@34.8:34.13VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java" "("
+typeint"
+isFinalfalse"À
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">a</mark> = { { 1, 2, 3, 4 }<mark class="modifier">,</mark> { 5, 6, 7, 8 } }*a2Z
+int[][]TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java" "(ó
+$ArrDemo.main(String[])?i@42.13:42.14VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java* *("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java*	 *(ó
+$ArrDemo.main(String[])?j@43.17:43.18VARIABLEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java+ +(ž
+ArrDemo.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 03\ArrDemo.java ("

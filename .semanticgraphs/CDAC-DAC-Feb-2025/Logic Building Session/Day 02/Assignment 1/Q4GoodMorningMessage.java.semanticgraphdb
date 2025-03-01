@@ -1,0 +1,63 @@
+
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.javaê
+Q4GoodMorningMessageCLASS`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (!"
+packageQ4GoodMorningMessage"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"r
+declarationString]<mark class="modifier">public </mark><mark class="modifier">class </mark>Q4GoodMorningMessage"
+accesspublic*Q4GoodMorningMessage2î
+#Q4GoodMorningMessage.main(String[])DECLARATION`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (Ë
+#Q4GoodMorningMessage.main(String[])METHOD`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+ java.util.Calendar.getInstance()CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java  (+2õ
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2ú
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2ú
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java	 	(2ó
+(Q4GoodMorningMessage.main(String[])!args	PARAMETER`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java% ()2¢
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20DECLARATION`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2£
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16DECLARATION`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2u
+voidRETURN_TYPE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (œ
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20VARIABLE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java ("
+typeCalendar"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark>Calendar <mark class="class-field">now</mark> = Calendar.getInstance()*now2|
+java.util.CalendarTYPE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2ä
+ java.util.Calendar.getInstance()CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java  (+Ò
+2Q4GoodMorningMessage.main(String[])?hour@5.12:5.16VARIABLE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java ("
+typeint"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">hour</mark> = now.get(Calendar.HOUR_OF_DAY)*hour2m
+intTYPE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (2õ
+1Q4GoodMorningMessage.main(String[])?now@4.17:4.20CALL`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java (Ÿ
+(Q4GoodMorningMessage.main(String[])!args	PARAMETER`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2r
+String[]TYPE`
+VCDAC-DAC-Feb-2025\Logic Building Session\Day 02\Assignment 1\Q4GoodMorningMessage.java ($

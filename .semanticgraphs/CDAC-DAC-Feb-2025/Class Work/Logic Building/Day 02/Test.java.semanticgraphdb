@@ -1,0 +1,48 @@
+
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.javaŠ
+TestCLASSB
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java(
+"
+packageTest"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Test"
+accesspackage_private*Test2j
+Test.main(String[])DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java (Ÿ
+Test.main(String[])METHODF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2o
+Test.main(String[])?a@2.14:2.15CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java (2o
+Test.main(String[])?a@2.14:2.15CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java (2m
+Test.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java) (-2v
+Test.main(String[])?a@2.14:2.15DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java (2[
+voidRETURN_TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java (ê
+Test.main(String[])?a@2.14:2.15VARIABLEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 510*a2S
+intTYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java
+ (•
+Test.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java) (-"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2X
+String[]TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Test.java  ((

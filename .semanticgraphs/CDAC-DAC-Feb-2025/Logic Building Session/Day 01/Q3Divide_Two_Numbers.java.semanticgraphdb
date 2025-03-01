@@ -1,0 +1,74 @@
+
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.javaı
+Q3Divide_Two_NumbersCLASSO
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java("
+packageQ3Divide_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier"> </mark><mark class="modifier">class </mark>Q3Divide_Two_Numbers"
+accesspackage_private*Q3Divide_Two_Numbers2á
+#Q3Divide_Two_Numbers.main(String[])DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (ä
+#Q3Divide_Two_Numbers.main(String[])METHODS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (2ä
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (2ä
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (2ä
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java# ($2ä
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java/ (02ä
+(Q3Divide_Two_Numbers.main(String[])!args	PARAMETERS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java# ('2ë
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	2ë
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	2ë
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9DECLARATIONS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	2h
+voidRETURN_TYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (ë
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 50*a2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (ê
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 3*b2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (Ø
+-Q3Divide_Two_Numbers.main(String[])?c@4.8:4.9VARIABLES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (	"
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = a / b*c2`
+intTYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (2ä
+-Q3Divide_Two_Numbers.main(String[])?a@2.8:2.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (2ä
+-Q3Divide_Two_Numbers.main(String[])?b@3.8:3.9CALLS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java (ø
+(Q3Divide_Two_Numbers.main(String[])!args	PARAMETERS
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2e
+String[]TYPES
+ICDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q3Divide_Two_Numbers.java ("

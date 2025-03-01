@@ -1,0 +1,127 @@
+
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java”
+JaggedArrayDemoCLASSK
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java("
+packageJaggedArrayDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>JaggedArrayDemo"
+accesspackage_private*JaggedArrayDemo2~
+JaggedArrayDemo.main(String[])DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (Ÿ
+JaggedArrayDemo.main(String[])METHODO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java" (#2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@13.9:13.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@14.10:14.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ñ
++JaggedArrayDemo.main(String[])?i@22.9:22.10CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (2Ö
+,JaggedArrayDemo.main(String[])?j@23.10:23.11CALLO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2Å
+#JaggedArrayDemo.main(String[])!args	PARAMETERO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java  (&2å
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (2ã
++JaggedArrayDemo.main(String[])?i@13.9:13.10DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+2å
+,JaggedArrayDemo.main(String[])?j@14.10:14.11DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2ã
++JaggedArrayDemo.main(String[])?i@22.9:22.10DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+2å
+,JaggedArrayDemo.main(String[])?j@23.10:23.11DECLARATIONO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ (2d
+voidRETURN_TYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (¿
+,JaggedArrayDemo.main(String[])?arr1@3.9:3.13VARIABLEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 ("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr1</mark> = new <mark class="modifier">int</mark>[3][]*arr12`
+int[][]TYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (Ü
++JaggedArrayDemo.main(String[])?i@13.9:13.10VARIABLEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (á
+,JaggedArrayDemo.main(String[])?j@14.10:14.11VARIABLEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (	Ü
++JaggedArrayDemo.main(String[])?i@22.9:22.10VARIABLEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java	 (
+"
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (á
+,JaggedArrayDemo.main(String[])?j@23.10:23.11VARIABLEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java
+ ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (	≤
+#JaggedArrayDemo.main(String[])!args	PARAMETERO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+ECDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\JaggedArrayDemo.java (&

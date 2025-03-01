@@ -1,0 +1,44 @@
+
+!Logic Building\Day 02\Switch.javaÞ
+SwitchCLASS'
+!Logic Building\Day 02\Switch.java("
+packageSwitch"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>Switch"
+accesspackage_private*Switch2Q
+Switch.main(String[])DECLARATION+
+!Logic Building\Day 02\Switch.java («
+Switch.main(String[])METHOD+
+!Logic Building\Day 02\Switch.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2T
+Switch.main(String[])?a@2.8:2.9CALL+
+!Logic Building\Day 02\Switch.java (2T
+Switch.main(String[])!args	PARAMETER+
+!Logic Building\Day 02\Switch.java# ('2[
+Switch.main(String[])?a@2.8:2.9DECLARATION+
+!Logic Building\Day 02\Switch.java (	2@
+voidRETURN_TYPE+
+!Logic Building\Day 02\Switch.java (³
+Switch.main(String[])?a@2.8:2.9VARIABLE+
+!Logic Building\Day 02\Switch.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a28
+intTYPE+
+!Logic Building\Day 02\Switch.java (á
+Switch.main(String[])!args	PARAMETER+
+!Logic Building\Day 02\Switch.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2=
+String[]TYPE+
+!Logic Building\Day 02\Switch.java ("

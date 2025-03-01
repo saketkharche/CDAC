@@ -1,0 +1,76 @@
+
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.javaº
+Q15FactorialCLASSG
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java("
+packageQ15Factorial"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier"> </mark><mark class="modifier">class </mark>Q15Factorial"
+accesspackage_private*Q15Factorial2w
+Q15Factorial.main(String[])DECLARATIONK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (ö
+Q15Factorial.main(String[])METHODK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2|
+'Q15Factorial.main(String[])?i@5.17:5.18CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (2Å
+,Q15Factorial.main(String[])?number@2.12:2.18CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (#2|
+'Q15Factorial.main(String[])?i@5.17:5.18CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java% (&2Ñ
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (2Ñ
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (!2|
+'Q15Factorial.main(String[])?i@5.17:5.18CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java$ (%2Å
+,Q15Factorial.main(String[])?number@2.12:2.18CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java	- 	(32Ñ
+/Q15Factorial.main(String[])?factorial@3.13:3.22CALLK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java	? 	(H2z
+ Q15Factorial.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java% ()2à
+,Q15Factorial.main(String[])?number@2.12:2.18DECLARATIONK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (2ã
+/Q15Factorial.main(String[])?factorial@3.13:3.22DECLARATIONK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (2É
+'Q15Factorial.main(String[])?i@5.17:5.18DECLARATIONK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (2`
+voidRETURN_TYPEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (ä
+,Q15Factorial.main(String[])?number@2.12:2.18VARIABLEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">number</mark> = 5*number2X
+intTYPEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (ñ
+/Q15Factorial.main(String[])?factorial@3.13:3.22VARIABLEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java ("
+typelong"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">factorial</mark> = 1*	factorial2Y
+longTYPEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (˙
+'Q15Factorial.main(String[])?i@5.17:5.18VARIABLEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2X
+intTYPEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java (ß
+ Q15Factorial.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+ACDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q15Factorial.java ($

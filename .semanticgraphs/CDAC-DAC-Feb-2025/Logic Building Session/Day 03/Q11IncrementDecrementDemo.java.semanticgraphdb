@@ -1,0 +1,74 @@
+
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.javaò
+Q11IncrementDecrementDemoCLASST
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java("$
+packageQ11IncrementDecrementDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier"> </mark><mark class="modifier">class </mark>Q11IncrementDecrementDemo"
+accesspackage_private*Q11IncrementDecrementDemo2ë
+(Q11IncrementDecrementDemo.main(String[])DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (ç
+(Q11IncrementDecrementDemo.main(String[])METHODX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ñ
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2ñ
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2ñ
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java$ (%2ñ
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java$ (%2õ
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java) (/2î
+-Q11IncrementDecrementDemo.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java% ()2ù
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2ù
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2¢
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18DECLARATIONX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2m
+voidRETURN_TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (°
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 5*a2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (¢
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 10*b2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (Î
+9Q11IncrementDecrementDemo.main(String[])?result@4.12:4.18VARIABLEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = ++a + b--*result2e
+intTYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2ñ
+4Q11IncrementDecrementDemo.main(String[])?a@2.12:2.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (2ñ
+4Q11IncrementDecrementDemo.main(String[])?b@3.12:3.13CALLX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java (Œ
+-Q11IncrementDecrementDemo.main(String[])!args	PARAMETERX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2j
+String[]TYPEX
+NCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q11IncrementDecrementDemo.java ($

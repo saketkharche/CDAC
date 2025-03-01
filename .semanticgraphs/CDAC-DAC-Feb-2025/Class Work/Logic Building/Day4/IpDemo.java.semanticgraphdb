@@ -1,0 +1,59 @@
+
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java˜
+IpDemoCLASSF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java ("
+packageIpDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"^
+declarationStringI<mark class="modifier"> </mark><mark class="modifier">class </mark>IpDemo"
+accesspackage_private*IpDemo2l
+IpDemo.main(String[])DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (£
+IpDemo.main(String[])METHODF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2q
+!IpDemo.main(String[])?sc@5.9:5.11CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java
+ (2q
+!IpDemo.main(String[])?s@16.6:16.7CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java )  (*2o
+IpDemo.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java  (&2x
+!IpDemo.main(String[])?sc@5.9:5.11DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java	 (2x
+!IpDemo.main(String[])?s@16.6:16.7DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (2[
+voidRETURN_TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (ù
+!IpDemo.main(String[])?sc@5.9:5.11VARIABLEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java	 ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2a
+java.util.ScannerTYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (Ô
+!IpDemo.main(String[])?s@16.6:16.7VARIABLEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java ("
+typechar"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>char <mark class="class-field">s</mark> = sc.next().charAt(5)*s2T
+charTYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (2q
+!IpDemo.main(String[])?sc@5.9:5.11CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java
+ (—
+IpDemo.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2X
+String[]TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day4\IpDemo.java (&

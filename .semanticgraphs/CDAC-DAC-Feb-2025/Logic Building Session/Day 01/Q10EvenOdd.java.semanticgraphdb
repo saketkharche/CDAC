@@ -1,0 +1,51 @@
+
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java®
+
+Q10EvenOddCLASSE
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java("
+package
+Q10EvenOdd"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Q10EvenOdd"
+accesspackage_private*
+Q10EvenOdd2s
+Q10EvenOdd.main(String[])DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (Á
+Q10EvenOdd.main(String[])METHODI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2v
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (	2v
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java/ (02v
+#Q10EvenOdd.main(String[])?a@2.8:2.9CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java/ (02v
+Q10EvenOdd.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java# ('2}
+#Q10EvenOdd.main(String[])?a@2.8:2.9DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (	2^
+voidRETURN_TYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (ó
+#Q10EvenOdd.main(String[])?a@2.8:2.9VARIABLEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (	"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 15*a2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java (¡
+Q10EvenOdd.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q10EvenOdd.java ("

@@ -1,0 +1,33 @@
+
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java·
+DoWhileDemoCLASSG
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java("
+packageDoWhileDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>DoWhileDemo"
+accesspackage_private*DoWhileDemo2v
+DoWhileDemo.main(String[])DECLARATIONK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java (â
+DoWhileDemo.main(String[])METHODK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+DoWhileDemo.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java  (&2`
+voidRETURN_TYPEK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java (¦
+DoWhileDemo.main(String[])!args	PARAMETERK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java  (&"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+ACDAC-DAC-Feb-2025\Class Work\Logic Building\Day3\DoWhileDemo.java (&

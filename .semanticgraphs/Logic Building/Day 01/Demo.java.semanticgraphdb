@@ -1,0 +1,33 @@
+
+Logic Building\Day 01\Demo.javaÕ
+Demo1CLASS%
+Logic Building\Day 01\Demo.java("
+packageDemo1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Demo1"
+accesspackage_private*Demo12N
+Demo1.main(String[])DECLARATION)
+Logic Building\Day 01\Demo.java (ð
+Demo1.main(String[])METHOD)
+Logic Building\Day 01\Demo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Q
+Demo1.main(String[])!args	PARAMETER)
+Logic Building\Day 01\Demo.java! ('2>
+voidRETURN_TYPE)
+Logic Building\Day 01\Demo.java (Ü
+Demo1.main(String[])!args	PARAMETER)
+Logic Building\Day 01\Demo.java! ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2;
+String[]TYPE)
+Logic Building\Day 01\Demo.java ('

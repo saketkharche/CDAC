@@ -1,0 +1,62 @@
+
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.javaØ
+Q2FactorialOfTenCLASSK
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java
+("
+packageQ2FactorialOfTen"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier"> </mark><mark class="modifier">class </mark>Q2FactorialOfTen"
+accesspackage_private*Q2FactorialOfTen2
+Q2FactorialOfTen.main(String[])DECLARATIONO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (Ð
+Q2FactorialOfTen.main(String[])METHODO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2„
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALLO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (2„
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALLO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java! ("2Œ
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22CALLO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (2„
++Q2FactorialOfTen.main(String[])?i@3.17:3.18CALLO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (2Œ
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22CALLO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java1 (:2‚
+$Q2FactorialOfTen.main(String[])!args	PARAMETERO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java% ()2“
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22DECLARATIONO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (2‹
++Q2FactorialOfTen.main(String[])?i@3.17:3.18DECLARATIONO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (2d
+voidRETURN_TYPEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (¢
+3Q2FactorialOfTen.main(String[])?factorial@2.13:2.22VARIABLEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java ("
+typelong"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">long</mark> <mark class="class-field">factorial</mark> = 1*	factorial2]
+longTYPEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (†
++Q2FactorialOfTen.main(String[])?i@3.17:3.18VARIABLEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2\
+intTYPEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java (³
+$Q2FactorialOfTen.main(String[])!args	PARAMETERO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+ECDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q2FactorialOfTen.java ($

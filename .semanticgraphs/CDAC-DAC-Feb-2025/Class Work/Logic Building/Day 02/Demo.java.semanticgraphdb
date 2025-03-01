@@ -1,0 +1,47 @@
+
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.javaŠ
+DemoCLASSB
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java(
+"
+packageDemo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Demo"
+accesspackage_private*Demo2j
+Demo.main(String[])DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (¢
+Demo.main(String[])METHODF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2p
+ Demo.main(String[])?age@2.8:2.11CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (2p
+ Demo.main(String[])?age@2.8:2.11CALLF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (2m
+Demo.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java# ('2w
+ Demo.main(String[])?age@2.8:2.11DECLARATIONF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (2[
+voidRETURN_TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (î
+ Demo.main(String[])?age@2.8:2.11VARIABLEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">age</mark> = 20*age2S
+intTYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java (•
+Demo.main(String[])!args	PARAMETERF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java# ('"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2X
+String[]TYPEF
+<CDAC-DAC-Feb-2025\Class Work\Logic Building\Day 02\Demo.java ("

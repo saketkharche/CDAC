@@ -1,0 +1,82 @@
+
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.javaÁ
+Q8Swap_Two_NumbersCLASSM
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java("
+packageQ8Swap_Two_Numbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier"> </mark><mark class="modifier">class </mark>Q8Swap_Two_Numbers"
+accesspackage_private*Q8Swap_Two_Numbers2É
+!Q8Swap_Two_Numbers.main(String[])DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (ô
+!Q8Swap_Two_Numbers.main(String[])METHODQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ü
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java3 (42Ü
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.javaB (C2ä
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2ä
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2Ü
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java	1 	(22Ü
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7CALLQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java	@ 	(A2Ü
+&Q8Swap_Two_Numbers.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java! (%2ç
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2ç
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (2ë
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (
+2f
+voidRETURN_TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (ã
++Q8Swap_Two_Numbers.main(String[])?a@2.6:2.7VARIABLEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 10*a2^
+intTYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (ã
++Q8Swap_Two_Numbers.main(String[])?b@3.6:3.7VARIABLEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = 20*b2^
+intTYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (ê
+/Q8Swap_Two_Numbers.main(String[])?temp@5.6:5.10VARIABLEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (
+"
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark>*temp2^
+intTYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java (π
+&Q8Swap_Two_Numbers.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java! (%"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q8Swap_Two_Numbers.java ( 

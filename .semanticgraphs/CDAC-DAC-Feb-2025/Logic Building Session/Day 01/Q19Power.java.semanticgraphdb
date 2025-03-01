@@ -1,0 +1,91 @@
+
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java†
+Q19PowerCLASSC
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java("
+packageQ19Power"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Q19Power"
+accesspackage_private*Q19Power2o
+Q19Power.main(String[])DECLARATIONG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (£
+Q19Power.main(String[])METHODG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2t
+#Q19Power.main(String[])?i@6.17:6.18CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2{
+*Q19Power.main(String[])?exponent@3.12:3.20CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (%2t
+#Q19Power.main(String[])?i@6.17:6.18CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java' ((2y
+(Q19Power.main(String[])?result@4.12:4.18CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2w
+&Q19Power.main(String[])?base@2.12:2.16CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2w
+&Q19Power.main(String[])?base@2.12:2.16CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java
+ 
+(2{
+*Q19Power.main(String[])?exponent@3.12:3.20CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java
+< 
+(D2y
+(Q19Power.main(String[])?result@4.12:4.18CALLG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java
+P 
+(V2r
+Q19Power.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java% ()2~
+&Q19Power.main(String[])?base@2.12:2.16DECLARATIONG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2Ç
+*Q19Power.main(String[])?exponent@3.12:3.20DECLARATIONG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2Ä
+(Q19Power.main(String[])?result@4.12:4.18DECLARATIONG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2{
+#Q19Power.main(String[])?i@6.17:6.18DECLARATIONG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (2\
+voidRETURN_TYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (˜
+&Q19Power.main(String[])?base@2.12:2.16VARIABLEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">base</mark> = 3*base2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (Ñ
+*Q19Power.main(String[])?exponent@3.12:3.20VARIABLEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">exponent</mark> = 4*exponent2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (˛
+(Q19Power.main(String[])?result@4.12:4.18VARIABLEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = 1*result2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (Ó
+#Q19Power.main(String[])?i@6.17:6.18VARIABLEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2T
+intTYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java (õ
+Q19Power.main(String[])!args	PARAMETERG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Y
+String[]TYPEG
+=CDAC-DAC-Feb-2025\Logic Building Session\Day 01\Q19Power.java ($

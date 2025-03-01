@@ -1,0 +1,92 @@
+
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.javaÆ
+
+Q16PatternCLASSE
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java("
+package
+Q16Pattern"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>Q16Pattern"
+accesspackage_private*
+Q16Pattern2s
+Q16Pattern.main(String[])DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (≥
+Q16Pattern.main(String[])METHODI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2x
+%Q16Pattern.main(String[])?i@4.17:4.18CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2{
+(Q16Pattern.main(String[])?rows@2.12:2.16CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (!2x
+%Q16Pattern.main(String[])?i@4.17:4.18CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java# ($2x
+%Q16Pattern.main(String[])?j@6.21:6.22CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2{
+(Q16Pattern.main(String[])?rows@2.12:2.16CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java! (%2x
+%Q16Pattern.main(String[])?i@4.17:4.18CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java( ()2x
+%Q16Pattern.main(String[])?j@6.21:6.22CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java+ (,2z
+'Q16Pattern.main(String[])?k@11.21:11.22CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2x
+%Q16Pattern.main(String[])?i@4.17:4.18CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java% (&2z
+'Q16Pattern.main(String[])?k@11.21:11.22CALLI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java, (-2v
+Q16Pattern.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java% ()2Ç
+(Q16Pattern.main(String[])?rows@2.12:2.16DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2
+%Q16Pattern.main(String[])?i@4.17:4.18DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2
+%Q16Pattern.main(String[])?j@6.21:6.22DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2Å
+'Q16Pattern.main(String[])?k@11.21:11.22DECLARATIONI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (2^
+voidRETURN_TYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (˝
+(Q16Pattern.main(String[])?rows@2.12:2.16VARIABLEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rows</mark> = 5*rows2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (Ù
+%Q16Pattern.main(String[])?i@4.17:4.18VARIABLEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (Ù
+%Q16Pattern.main(String[])?j@6.21:6.22VARIABLEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (ˆ
+'Q16Pattern.main(String[])?k@11.21:11.22VARIABLEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 1*k2V
+intTYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java (°
+Q16Pattern.main(String[])!args	PARAMETERI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?CDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q16Pattern.java ($

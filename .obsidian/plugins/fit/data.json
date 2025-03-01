@@ -1,0 +1,12 @@
+{
+  "pat": "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",
+  "owner": "saketkharche",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108940657?v=4",
+  "repo": "CDAC",
+  "branch": "main",
+  "deviceName": "Saket ASUS TUF F15",
+  "checkEveryXMinutes": 5,
+  "autoSync": "on",
+  "notifyChanges": true,
+  "notifyConflicts": true
+}

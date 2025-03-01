@@ -1,0 +1,48 @@
+
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java«
+Q10EvenNumbersCLASSI
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java("
+packageQ10EvenNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Q10EvenNumbers"
+accesspublic*Q10EvenNumbers2{
+Q10EvenNumbers.main(String[])DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (Å	
+Q10EvenNumbers.main(String[])METHODM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ä
+)Q10EvenNumbers.main(String[])?i@3.17:3.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (2Ä
+)Q10EvenNumbers.main(String[])?i@3.17:3.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java! ("2Ä
+)Q10EvenNumbers.main(String[])?i@3.17:3.18CALLM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (2~
+"Q10EvenNumbers.main(String[])!args	PARAMETERM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java% ()2á
+)Q10EvenNumbers.main(String[])?i@3.17:3.18DECLARATIONM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (2b
+voidRETURN_TYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (Ä
+)Q10EvenNumbers.main(String[])?i@3.17:3.18VARIABLEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2Z
+intTYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java (≠
+"Q10EvenNumbers.main(String[])!args	PARAMETERM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2_
+String[]TYPEM
+CCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q10EvenNumbers.java ($

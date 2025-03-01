@@ -1,0 +1,35 @@
+
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.javaÇ
+Q1HelloCLASSQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java ("
+packageQ1Hello"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"”
+declarationString<mark class="modifier">public </mark><mark class="modifier">class </mark>Q1Hello<mark class="modifier"> extends </mark>eecs.Gui"
+accesspublic*Q1Hello2x
+Q1Hello.main(String[])DECLARATIONQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	 	(2e
+eecs.GuiEXTENDQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java" (%ì
+Q1Hello.main(String[])METHODQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	 	("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+Q1Hello.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	$ 	((2f
+voidRETURN_TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	 	(®
+Q1Hello.main(String[])!args	PARAMETERQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	$ 	(("
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GCDAC-DAC-Feb-2025\Logic Building Session\Day 01\Flow Chart\Q1Hello.java	 	(#

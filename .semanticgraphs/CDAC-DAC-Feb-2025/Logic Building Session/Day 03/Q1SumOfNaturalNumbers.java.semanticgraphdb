@@ -1,0 +1,61 @@
+
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java¸
+Q1SumOfNaturalNumbersCLASSP
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java(" 
+packageQ1SumOfNaturalNumbers"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier"> </mark><mark class="modifier">class </mark>Q1SumOfNaturalNumbers"
+accesspackage_private*Q1SumOfNaturalNumbers2â
+$Q1SumOfNaturalNumbers.main(String[])DECLARATIONT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (ù
+$Q1SumOfNaturalNumbers.main(String[])METHODT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2é
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (2é
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java! ("2ê
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15CALLT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (2é
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18CALLT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (2ê
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15CALLT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.javaA (D2å
+)Q1SumOfNaturalNumbers.main(String[])!args	PARAMETERT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java% ()2ó
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15DECLARATIONT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (2ï
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18DECLARATIONT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (2i
+voidRETURN_TYPET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (õ
+2Q1SumOfNaturalNumbers.main(String[])?sum@2.12:2.15VARIABLET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2a
+intTYPET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (ï
+0Q1SumOfNaturalNumbers.main(String[])?i@3.17:3.18VARIABLET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2a
+intTYPET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java (¬
+)Q1SumOfNaturalNumbers.main(String[])!args	PARAMETERT
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2f
+String[]TYPET
+JCDAC-DAC-Feb-2025\Logic Building Session\Day 03\Q1SumOfNaturalNumbers.java ($
